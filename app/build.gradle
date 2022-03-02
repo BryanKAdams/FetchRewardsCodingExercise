@@ -32,6 +32,15 @@ android {
 }
 
 dependencies {
+    //Retrofit
+    implementation 'com.squareup.retrofit2:retrofit2:2.9.0'
+
+    //gson
+    implementation 'com.google.code.gson:gson:2.8.7'
+
+    //KotlinX Coroutines
+
+    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.6.0")
 
     implementation 'androidx.core:core-ktx:1.7.0'
     implementation 'androidx.appcompat:appcompat:1.4.1'
