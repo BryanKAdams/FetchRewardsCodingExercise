@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Fetch Names</string>
+    <string name="name">Name</string>
+    <string name="list_id">"List ID:"</string>
 </resources>
