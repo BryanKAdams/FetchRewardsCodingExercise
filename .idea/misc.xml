@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Bryan/AndroidStudioProjects/FetchRewardsCodingExercise/app/src/main/res/drawable/chevron.xml" value="0.1" />
         <entry key="..\:/Users/Bryan/AndroidStudioProjects/FetchRewardsCodingExercise/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Bryan/AndroidStudioProjects/FetchRewardsCodingExercise/app/src/main/res/layout/layout_picker_data.xml" value="0.22" />
         <entry key="..\:/Users/Bryan/AndroidStudioProjects/FetchRewardsCodingExercise/app/src/main/res/layout/name_item.xml" value="0.2" />
       </map>
     </option>
